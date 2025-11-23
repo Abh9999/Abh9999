@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=M.Sc.+Student+@+FAU+(Emobility);Aspiring+AI+%26+ML+Engineer;Exploring+NLP+%26+LLMs;Sustainable+Tech+Advocate&center=true&width=500&height=50&color=333333" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=M.Sc.+Student+@+FAU+(Electromobility);Aspiring+AI+%26+ML+Engineer;Exploring+NLP+%26+LLMs&center=true&width=500&height=50&color=333333" alt="Typing SVG" />
   
   <br/>
 
