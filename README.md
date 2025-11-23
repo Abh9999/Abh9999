@@ -5,7 +5,7 @@
 
   ### Hi, I'm Abhishek Hirpara 👋
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID_HERE">
+  <a href="www.linkedin.com/in/abhishek-hirpara">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhishek.bh.hirpara@fau.de">
