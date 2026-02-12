@@ -38,7 +38,7 @@ My passion lies in bridging the gap between **Sustainable Engineering** and **Ar
 
 ### ⚡ Current Focus
 - 🔭 Working on: **Improving proficiency in Large Language Models (LLMs)**
-- 🌱 Learning: **Advanced Algorithms for Emobility**
+- 🌱 Learning: **Advanced Algorithms for Electromobility**
 
 ---
 <div align="center">
