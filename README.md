@@ -17,7 +17,7 @@
 <br/>
 
 ### 👨‍💻 About Me
-I am an M.Sc. student in **Emobility (ACES)** at **Friedrich-Alexander-University (FAU)**. 
+I am an M.Sc. student in **Electromobility (ACES)** at **Friedrich-Alexander-University (FAU)**. 
 <br/>
 My passion lies in bridging the gap between **Sustainable Engineering** and **Artificial Intelligence**. I am actively building my expertise in Machine Learning algorithms and their application in modern mobility solutions.
 
